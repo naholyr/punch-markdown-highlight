@@ -1,0 +1,17 @@
+{
+  "name": "punch-markdown-highlight",
+  "version": "1.0.0",
+  "description": "Markdown parser with support for syntax highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "punch",
+    "markdown",
+    "highlight"
+  ],
+  "author": "Nicolas Chambrier <naholyr@gmail.com>",
+  "license": "BSD"
+}
