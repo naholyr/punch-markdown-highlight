@@ -13,5 +13,13 @@
     "highlight"
   ],
   "author": "Nicolas Chambrier <naholyr@gmail.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "highlight.js": "~7.3.0",
+    "lodash": "~1.0.0-rc.3",
+    "marked": "~0.2.7"
+  },
+  "peerDependencies": {
+    "punch": "*"
+  }
 }
